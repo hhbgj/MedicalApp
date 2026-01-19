@@ -1,0 +1,2 @@
+UNINFECTED|未感染
+PARASITIZED|感染疟疾

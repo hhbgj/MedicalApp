@@ -1,0 +1,2 @@
+BENIGN|良性
+MALIGNANT|恶性

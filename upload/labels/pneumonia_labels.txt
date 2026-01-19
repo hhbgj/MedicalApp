@@ -1,0 +1,2 @@
+NORMAL|正常
+PNEUMONIA|肺炎
